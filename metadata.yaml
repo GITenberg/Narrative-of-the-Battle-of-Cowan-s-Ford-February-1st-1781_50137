@@ -1,4 +1,8 @@
 _repo: Narrative-of-the-Battle-of-Cowan-s-Ford-February-1st-1781_50137
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50137-h/images/cover.jpg
 creator:
   author:
     agent_name: Henry, Robert Mitchell
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '37050'
     url: http://www.gutenberg.org/2009/agents/37050
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50137#Narrative-of-the-Battle-of-Cowan-s-Ford-February-1st-1781
 gutenberg_issued: '2015-10-05'
 gutenberg_type: Text
 identifiers:
